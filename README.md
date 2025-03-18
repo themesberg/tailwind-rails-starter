@@ -1,7 +1,3 @@
-[Ruby on Rails](https://rubyonrails.org/) is an open-source full-stack web application framework that runs server-side written in Ruby and built by the creators of Basecamp based on a model-view-controller architecture.
-
-Popular websites such as GitHub, Shopify, Twitch, Dribbble, AirBnB, and Coinbase are all based on the Ruby on Rails framework and it is continued to be used by thousands of companies and developers.
-
 [In this guide](https://flowbite.com/docs/getting-started/rails/), you will learn how to set up Ruby on Rails with Tailwind CSS and install Flowbite to start using the UI components built with the utility classes from Tailwind CSS.
 
 ## Create a new project
